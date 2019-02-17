@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
+﻿using System.Diagnostics;
 
 namespace exOpen
 {
@@ -12,10 +8,9 @@ namespace exOpen
         {
             try
             {
-                string path = args[0];
+                string path = string.Join(" ", args, 0, args.Length);
                 Process.Start(path);
-            } catch {
-            }
+            } catch { }
         }
     }
 }
