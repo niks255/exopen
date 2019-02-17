@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exOpen", "exOpen\exOpen.csproj", "{0CF14E44-6F92-43D9-885E-3E3F1218CAF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF14E44-6F92-43D9-885E-3E3F1218CAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF14E44-6F92-43D9-885E-3E3F1218CAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF14E44-6F92-43D9-885E-3E3F1218CAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF14E44-6F92-43D9-885E-3E3F1218CAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFD8EB7-AD55-44C0-9F25-6E5B2E830E36}
+	EndGlobalSection
+EndGlobal
